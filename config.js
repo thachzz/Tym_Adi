@@ -15,5 +15,5 @@
     mess: 'Anh biết mà 🥰. nhưng kệ em cơ 😘😘',
     messDesc: 'Bé chậpp của anh, tới với anh nào😙',
     btnAccept: 'Tới liền nè anh <3',
-    messLink: 'https://www.facebook.com/messages/e2ee/t/7555342534480212',
+    messLink: 'https://www.facebook.com/messages/e2ee/t/7555342534480212'
 }
