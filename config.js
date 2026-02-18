@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Bé Sol ơi!',
     introDesc: `Đường đời trăm ngả vấn vương,
-                Sao em lạc bước chung đường cùng anh?
-                Tim này vốn dĩ mong manh,
-                Em vừa ghé nhẹ… hóa thành yêu thương.`,
+Sao em lạc bước chung đường cùng anh?
+Tim này vốn dĩ mong manh,
+Em vừa ghé nhẹ… hóa thành yêu thương.`,
     btnIntro: 'Vẫn là vào tym a 😘 ',
     title: 'Sol có yêu Adi khum 😙',
     desc: 'Phải chăng em đã say ngay từ lúc đầu gặp anh? ',
