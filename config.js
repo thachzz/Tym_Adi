@@ -1,11 +1,11 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'Biubiu ơiiii!',
     introDesc: `Đường đời trăm ngả vấn vương,
      Sao em lạc bước chung đường cùng anh?
      Tym này vốn dĩ mong manh
      Em vừa ghé nhẹ... hóa thành yêu thương`,
     btnIntro: 'iu iu',
-    title: 'Sol có thương Adi không nè 😙',
+    title: 'biubiu có thương bubu không nè 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Bé yêu mỗi anh <33',
     btnNo: 'Không, Mơ đi Anh trai à :3',
